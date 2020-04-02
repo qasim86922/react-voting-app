@@ -29600,7 +29600,7 @@ var Footer = function Footer() {
           _react2.default.createElement(
             "strong",
             null,
-            "Daniel Deutsch"
+            "Qasim Mahmood"
           )
         )
       )
@@ -29614,7 +29614,7 @@ var Footer = function Footer() {
         _react2.default.createElement(
           "a",
           {
-            href: "https://github.com/DDCreationStudios",
+            href: "https://github.com/qasim86922/react-voting-app",
             target: "_blank",
             className: "teal-text text-lighten-4",
             rel: "noreferrer noopener"
@@ -29624,62 +29624,12 @@ var Footer = function Footer() {
         _react2.default.createElement(
           "a",
           {
-            href: "https://www.linkedin.com/in/daniel-deutsch-b95611127",
+            href: "https://www.linkedin.com/in/qasim-mahmood-0a81aa180/",
             target: "_blank",
             className: "teal-text text-lighten-4",
             rel: "noreferrer noopener"
           },
           "LinkedIn /"
-        ),
-        _react2.default.createElement(
-          "a",
-          {
-            href: "https://medium.com/@ddcreationstudi",
-            target: "_blank",
-            className: "teal-text text-lighten-4",
-            rel: "noreferrer noopener"
-          },
-          "Medium /"
-        ),
-        _react2.default.createElement(
-          "a",
-          {
-            href: "https://hashnode.com/@DDCreationStudio",
-            target: "_blank",
-            className: "teal-text text-lighten-4",
-            rel: "noreferrer noopener"
-          },
-          "Hashnode /"
-        ),
-        _react2.default.createElement(
-          "a",
-          {
-            href: "https://www.freecodecamp.com/ddcreationstudios",
-            target: "_blank",
-            className: "teal-text text-lighten-4",
-            rel: "noreferrer noopener"
-          },
-          "FreeCodeCamp /"
-        ),
-        _react2.default.createElement(
-          "a",
-          {
-            href: "https://codepen.io/ddcreationstudios/",
-            target: "_blank",
-            className: "teal-text text-lighten-4",
-            rel: "noreferrer noopener"
-          },
-          "CodePen /"
-        ),
-        _react2.default.createElement(
-          "a",
-          {
-            href: "http://ddcreationstudios.at/",
-            target: "_blank",
-            className: "teal-text text-lighten-4",
-            rel: "noreferrer noopener"
-          },
-          "Site"
         )
       )
     )
